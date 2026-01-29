@@ -1,2 +1,2 @@
 # Test
-Test repository for github commands 
+Test repository for github commands.
